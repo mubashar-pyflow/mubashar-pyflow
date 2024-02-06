@@ -6,7 +6,6 @@
   </a>
 </p>
 
-- Profile
 👋 Hi, I'm Mubashar (@mubashar-pyflow), a frontend developer with a passion for crafting delightful user experiences and building innovative web applications.
 
 - 👀 I'm interested in exploring the latest trends in web development, diving deep into frontend frameworks, and discovering creative solutions to real-world problems.
