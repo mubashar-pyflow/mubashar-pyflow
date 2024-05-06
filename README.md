@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Nuxt+JS+Developer;VUE+JS+Developer&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a">
   </a>
 </p>
-#💫 About Me:
+
 👋 Hi, I'm Mubashar Nouman (@mubashar-pyflow), a frontend developer with a passion for crafting delightful user experiences and building innovative web applications.<br><br>👀 I'm interested in exploring the latest trends in web development, diving deep into frontend frameworks, and discovering creative solutions to real-world problems.<br><br>🌱 I'm currently learning advanced concepts in Nuxt JS, Vue JS, & React JS to enhance my skills and stay up-to-date with the rapidly evolving landscape of frontend development.<br><br>💞️ I'm looking to collaborate on exciting projects that challenge me to think outside the box and push the boundaries of what's possible on the web.<br>
 
 
